@@ -1,14 +1,14 @@
 # Site settings
-title: Monochrome | A minimal, responsive Jekyll blog theme
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
-url: "http://www.dyutibarma.github.io/monochrome"
+title: We are on the road together
+description: "The soul of every faith is comforted and satisfied on the road"
+url: "https://www.qwfys.com/monochrome/"
 author:
-  name: "The Review Index"
-  email: "dyutibarma@gmail.com"
-  url: "https://thereviewindex.com"
+  name: "听风者"
+  email: "qwfys200@qq.com"
+  url: "https://github.com/qwfys"
 
 # Build settings
-baseurl: /monochrome # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
@@ -34,6 +34,6 @@ gems:
 version: "1.0.0"
 
 # Options
-custom_header: false
-custom_nav_footer: false
+custom_header: true
+custom_nav_footer: true
 reverse: false
